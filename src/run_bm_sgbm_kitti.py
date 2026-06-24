@@ -19,7 +19,7 @@ from utils import (
 # Experiment configuration
 # ============================================================
 
-NUM_IMAGES = 5
+NUM_IMAGES = 20
 
 BM_NUM_DISPARITIES = 128
 BM_BLOCK_SIZE = 15
